@@ -2,12 +2,13 @@
 
 # Contenido
 El proyecto cuenta con 3 clases en el lenguaje python:
+
 	main, la clase con la lógica
 	Pila, encargada de gestionar la pila
 	Cola, encargada de gestionar la cola
 	
 # Además tiene 2 archivos .txt:
-	libros.txt, que contiene los libros con los datos de Titulo, Autor, Temática, Páginas y Editorial.
+        libros.txt, que contiene los libros con los datos de Titulo, Autor, Temática, Páginas y Editorial.
 	busquedas.txt, un archivo plano en donde se guardará el resultado de los filtros.
 	
 # Ejecución del proyecto
@@ -18,7 +19,7 @@ El resultado del fltro se puede ver en el archivo busquedas.txt, los filtros se 
 El lenguaje Python
 
 # Autores 
-Christian Camilo Iba?ez Torres
+Christian Camilo Ibañez Torres
 
 # Agradecimientos
 Al ingeniero Alejandro Daza, por facilitar las clases para el manejo de pilas y colas (pila.py y cola.py)
