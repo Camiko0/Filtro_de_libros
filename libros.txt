@@ -1,8 +1,0 @@
-Alicia en el Pais de las Maravillas,Lewis Carrol,Literatura Infantil,58,Edelvives
-Del amor y otros demonios,Gabriel Garcia Marquez,Novelas,115,DeBolsillo
-El Codigo Da Vinci,Dan Brown,Novelas,25,Umbriel
-Hamlet,William Shakespeare,Ficcion y Literatura,98,Via Magna
-La Divina Comedia,Dante Alighieri,Clasicos Universales,101,Espasa Calpe
-Los Tres Mosqueteros,Alejandro Dumas,Novelas,18,Andres Bello
-El Principito,Antoine De Saint-Exupery,Literatura Infantil,92,Salamandra
-Inferno,Dan Brown,Novelas,98,Planeta
