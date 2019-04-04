@@ -20,7 +20,8 @@ El resultado del fltro se puede ver en el archivo busquedas.txt, los filtros se 
 El lenguaje Python
 
 # Autores
-Christian Camilo Ibañez Torres
+Christian Camilo Ibañez Torres - 20141020116
+Vanessa López Fuquen - 20152020725
 
 # Agradecimientos
 Al ingeniero Alejandro Daza, por facilitar las clases para el manejo de pilas y colas (pila.py y cola.py)
